@@ -75190,7 +75190,7 @@ a7t(a){return this.af(new A.afr(this,a))},
 vH(){var s=0,r=A.N(t.H),q=1,p,o=this,n,m,l,k
 var $async$vH=A.J(function(a,b){if(a===1){p=b
 s=q}while(true)switch(s){case 0:q=3
-m=A.ayz(A.aln(A.kE("ws://192.168.1.50:4443"),null))
+m=A.ayz(A.aln(A.kE("wss://192.168.1.50:4443"),null))
 o.go!==$&&A.bd()
 o.go=m
 q=1
